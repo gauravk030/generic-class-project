@@ -1,3 +1,4 @@
+package org.example.genericclass;
 class Test2<T,U>{
 	private T object1;
 	private U object2;

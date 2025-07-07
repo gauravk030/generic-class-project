@@ -1,3 +1,4 @@
+package org.example.genericclass;
 
 class Test<E>{
 	private E object;
