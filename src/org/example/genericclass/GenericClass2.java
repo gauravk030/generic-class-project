@@ -16,7 +16,7 @@ class Test2<T,U>{
 	}
 }
 
-public class GenericExp2 {
+public class GenericClass2 {
 
 	public static void main(String[] args) {
 		Test2<Integer,String> test = new Test2<>(1,"one");
